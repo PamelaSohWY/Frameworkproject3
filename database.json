@@ -1,0 +1,8 @@
+{
+    "dev":{
+        "driver":"mysql",
+        "user":{"ENV":"CandyBrandy"}, 
+        "password":{"ENV":"AndyDandy"},
+        "database":{"ENV":"creativeshop"}
+    }
+}
